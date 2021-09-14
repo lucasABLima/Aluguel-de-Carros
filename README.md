@@ -3,6 +3,8 @@
 ## Descrição do sistema
 <p>
 
+Pretende-se desenvolver um sistema para apoio à gestão de aluguéis de automóveis que permita efetuar, cancelar e modificar pedidos através da Internet. Após a análise inicial de requisitos do sistema foram levantadas as seguintes informações:
+
 O sistema só pode ser utilizado após cadastro prévio.
 
 Os usuários individuais (clientes) podem introduzir, modificar, consultar e cancelar pedidos de aluguel. Por outro lado, os agentes (empresas e bancos) podem modificar e avaliar pedidos.
