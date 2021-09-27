@@ -41,7 +41,7 @@ Ao final da última sprint (Sprint 04), os alunos deverão apresentar o protóti
 
 - Lab02S01: Modelagem do sistema: Diagrama de Casos de Uso, Diagrama de Classes, Diagrama de Componentes.
 
-- Lab02S02: TBD
+- Lab02S02: Revisão dos diagramas, de acordo com feedback em aula + Diagrama de Implantação + Implementação do CRUD de usuário (atendendo aos RNFs de ser um sistema WEB, em Java, com MVC)
 
 - Lab02S03: TBD
 
